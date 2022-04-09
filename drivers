@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "dr_id": "dv_1",
+    "name": "Ulan",
+    "car": ""
+  },
+  {
+    "id": 2,
+    "dr_id": "dv_2",
+    "name": "Altyn",
+    "car": ""
+  },
+  {
+    "id": 3,
+    "dr_id": "dv_3",
+    "name": "Bekmamat",
+    "car": ""
+  }
+]
